@@ -139,8 +139,8 @@ li{
 
 .nav-link{
     font-family: 'Medula One', cursive;
-    font-size: 5rem;
-    padding: 1rem;
+    font-size: 5vh;
+    padding: 0.5vh;
 }
 
 
@@ -218,7 +218,7 @@ li{
 }
 
 .landing-text h1{
-    font-size: 20rem;
+    font-size: 20vh;
     font-family: 'Medula One', cursive;
     background: linear-gradient(to top, #ffe838,#fd57bf);
     -webkit-background-clip: text;
