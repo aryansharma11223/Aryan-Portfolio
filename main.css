@@ -398,7 +398,7 @@ li{
     border-radius: .8rem;
     background-color: rgba(0,0,0,0.05);
     margin: 0 auto;
-    margin-left: 5em;
+    margin-left: auto;
     position: relative;
     padding: 5rem;
     list-style: none;
